@@ -1,0 +1,5 @@
+Automate the Boring Stuff with Python - https://automatetheboringstuff.com/
+
+Hitchhiker’s Guide to Python - https://docs.python-guide.org/
+
+official language reference - https://docs.python.org/3/reference/index.html
